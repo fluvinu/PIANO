@@ -77,4 +77,9 @@ body{
 .black-key:nth-child(10){
     left: 865px;
 }
+.bnner{
+    text-align: center;
+    margin-top: -120px;
+    color: rgb(161, 161, 159);
+}
 
